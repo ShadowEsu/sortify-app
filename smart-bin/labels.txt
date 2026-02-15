@@ -1,0 +1,4 @@
+0 Recycle
+1 Compost
+2 Landfill
+3 Hazard
