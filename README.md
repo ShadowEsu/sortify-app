@@ -1,5 +1,4 @@
 > *🌱 Sortify — AI-Powered Waste Sorting Game
-> **https://sortifywebsiteapp.base44.app**
 
 Sortify is a gamified web application that uses AI-powered image recognition to help users correctly sort waste into Recycle, Compost, or Landfill bins.
 By turning sustainability into a game, Sortify educates users while encouraging real-world environmental impact.
@@ -55,7 +54,7 @@ Optimized pickup routing (future scope)
 🧩 System Architecture Overview
 Frontend (React + Vite)
         ↓ API Requests
-Backend (FastAPI)
+gi
         ↓
 SQLite Database
         ↓
